@@ -1,0 +1,16 @@
+{
+  "name": "retoplatzichallenge--instagram-clon",
+  "version": "1.0.0",
+  "description": "Segui los pasos e hice esto, de un profe de platzi para practicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Teo Zavala <teozavala@gmail.com>",
+  "license": "MIT"
+}
